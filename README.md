@@ -19,7 +19,6 @@ Most Neovim configs are bloated.
 
 This one is:
 - ⚡ **Fast as hell**
-- 🧠 **Optimized for CP**
 - 🧰 **Only essential plugins**
 - 🔥 **Zero distraction workflow**
 
